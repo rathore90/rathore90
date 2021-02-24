@@ -1,6 +1,6 @@
 # Hey, I'm Pardeep! 👋
 
-I am fourth year computer science student at UBC, and currently working part time as a web developer at Csek Creartive Inc. 
+I am fourth year computer science student at UBC, and currently working part time as a web developer at NowMedia Group Inc. 
 
 
 ## Previously...
