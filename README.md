@@ -1,12 +1,11 @@
 # Hey, I'm Pardeep! 👋
 
-I am fourth year computer science student at UBC, and currently working part time as a web developer at NowMedia Group Inc. 
+I am graduated from UBC with Bachelor of Science degree. My major is computer science and Minor is Data Science. Currently, I am working as a full stack developer at SweetLegs Cloting Inc. 
 
 
 ## Previously...
 
-Last year, I worked as a coop software developer and completed my capstone project. Where I get to learn about software development process, SQL server, C#, .Net core framework, Entity core framework, and Docker
-
+Last year, I worked as a web developer, coop software developer and completed my capstone project. Where I get to learn about software development process, SQL server, C#, .Net core framework, Entity core framework, Docker, PHP, MySQL, CakePhp Framework.
 
 ## In my free time
 
