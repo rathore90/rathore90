@@ -1,6 +1,6 @@
 # Hey, I'm Pardeep! 👋
 
-I am graduated from UBC with Bachelor of Science degree. My major is computer science and Minor is Data Science. I have been working on Shopify themes and custom apps since last 3 years. Currently, I have been learning and exploring Shopify apps.  
+I am graduated from UBC with a Bachelor of Science degree and Major was Computer Science, and Minor was Data Science. I have experience in html, CSS, and JavaScript, React, Redux, and VueJs. In terms of backend, I have worked with Laravel, C#(.NET Core Framework), Node, SQL and MongoDB. 
 
 
 ## Previously...
@@ -9,7 +9,7 @@ Last year, I worked as a web developer, coop software developer and completed my
 
 ## In my free time
 
-I love watching programming youtube videos/tutorial and learn new things. Also, I develop webiste in my free time.
+I love watching programming youtube videos/tutorial and learn new things. Also, I develop apps in my free time.
 
 ## Reach out to me via
 
