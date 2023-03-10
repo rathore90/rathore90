@@ -1,6 +1,6 @@
 # Hey, I'm Pardeep! 👋
 
-I am graduated from UBC with Bachelor of Science degree. My major is computer science and Minor is Data Science. Currently, I am working as a full stack developer at SweetLegs Cloting Inc. 
+I am graduated from UBC with Bachelor of Science degree. My major is computer science and Minor is Data Science. I have been working on Shopify themes and custom apps since last 3 years. Currently, I have been learning and exploring Shopify apps.  
 
 
 ## Previously...
